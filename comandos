@@ -19,8 +19,11 @@ git branch nueva_rama    -- Crear rama nueva
 git checkout nueva_rama  -- Posicionarte rama nueva
 git push --set-upstream origin rama1 -- Enviar los cambios de la rama al repositorio remoto
 git branch  -- Ves todas las ramas y en la que estas posicionado
+git branch -d rama2 -- borra rama
+git push origin --delete feature -- borrar rama en remoto
 
 
+git pull
 
 git checkout master
 git merge feature
