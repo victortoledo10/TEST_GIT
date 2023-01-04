@@ -2,5 +2,13 @@ git ini            -- Inicializar repositorio git
 git status         -- Devuelve ramas y ficheros
 git add.           -- Añade ficheros para su seguimiento
 git commit -m ""   -- Añade ficheros para su seguimiento
+git log            -- Commit hechos
+git branch         -- Devuelve las ramas del repositorio
+git remote add origin https://github.com/victortoledo10/*** -- Añade repositorio remoto
+git branch -M main -- Renombra la rama con el nombre 
+git push -u origin main -- Sube el contenido al repositorio remoto
+
+
+
 
 
