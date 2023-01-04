@@ -1,0 +1,6 @@
+git ini            -- Inicializar repositorio git
+git status         -- Devuelve ramas y ficheros
+git add.           -- Añade ficheros para su seguimiento
+git commit -m ""   -- Añade ficheros para su seguimiento
+
+
