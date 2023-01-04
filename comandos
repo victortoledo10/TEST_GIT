@@ -8,12 +8,23 @@ git remote add origin https://github.com/victortoledo10/*** -- Añade repositori
 git branch -M main -- Renombra la rama con el nombre 
 git push -u origin main -- Sube el contenido al repositorio remoto
 git clone 
+git diff   -- diferencias
+
+
+
+
 
 
 git branch nueva_rama    -- Crear rama nueva
 git checkout nueva_rama  -- Posicionarte rama nueva
 git push --set-upstream origin rama1 -- Enviar los cambios de la rama al repositorio remoto
 git branch  -- Ves todas las ramas y en la que estas posicionado
+
+
+
+git checkout master
+git merge feature
+
 
 
 
